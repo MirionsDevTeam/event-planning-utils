@@ -7,3 +7,10 @@ https://design.penpot.app/#/view/93d0ad32-dfe5-8194-8003-ff4cc9b6bc50?page-id=93
 
 ## Repositorio Sara
 https://github.com/Saragc5/mirions-home
+
+## Pasos para hacer un rebase
+git fetch
+git checkout develop
+git pull
+git checkout [mirama]
+git rebase develop
